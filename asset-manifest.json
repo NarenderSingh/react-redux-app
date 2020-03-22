@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-redux-demo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-redux-demo/static/js/main.d95b372a.chunk.js",
-    "main.js.map": "/react-redux-demo/static/js/main.d95b372a.chunk.js.map",
-    "runtime-main.js": "/react-redux-demo/static/js/runtime-main.c87d001e.js",
-    "runtime-main.js.map": "/react-redux-demo/static/js/runtime-main.c87d001e.js.map",
-    "static/js/2.309b97ce.chunk.js": "/react-redux-demo/static/js/2.309b97ce.chunk.js",
-    "static/js/2.309b97ce.chunk.js.map": "/react-redux-demo/static/js/2.309b97ce.chunk.js.map",
-    "index.html": "/react-redux-demo/index.html",
-    "precache-manifest.a3d9a805d3430ef7ad45f81b5ec3809f.js": "/react-redux-demo/precache-manifest.a3d9a805d3430ef7ad45f81b5ec3809f.js",
-    "service-worker.js": "/react-redux-demo/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-redux-demo/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.309b97ce.chunk.js.LICENSE.txt": "/react-redux-demo/static/js/2.309b97ce.chunk.js.LICENSE.txt"
+    "main.css": "/react-redux-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-redux-app/static/js/main.f9cf79fd.chunk.js",
+    "main.js.map": "/react-redux-app/static/js/main.f9cf79fd.chunk.js.map",
+    "runtime-main.js": "/react-redux-app/static/js/runtime-main.1266a2ba.js",
+    "runtime-main.js.map": "/react-redux-app/static/js/runtime-main.1266a2ba.js.map",
+    "static/js/2.b9a3b0b8.chunk.js": "/react-redux-app/static/js/2.b9a3b0b8.chunk.js",
+    "static/js/2.b9a3b0b8.chunk.js.map": "/react-redux-app/static/js/2.b9a3b0b8.chunk.js.map",
+    "index.html": "/react-redux-app/index.html",
+    "precache-manifest.38b694f90ff202aacaadf2e7a16e975c.js": "/react-redux-app/precache-manifest.38b694f90ff202aacaadf2e7a16e975c.js",
+    "service-worker.js": "/react-redux-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-redux-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b9a3b0b8.chunk.js.LICENSE.txt": "/react-redux-app/static/js/2.b9a3b0b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c87d001e.js",
-    "static/js/2.309b97ce.chunk.js",
+    "static/js/runtime-main.1266a2ba.js",
+    "static/js/2.b9a3b0b8.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d95b372a.chunk.js"
+    "static/js/main.f9cf79fd.chunk.js"
   ]
 }
