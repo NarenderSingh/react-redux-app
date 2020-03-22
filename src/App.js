@@ -5,13 +5,17 @@ import store from "./redux/store";
 import "./App.css";
 import CakeContainer from "./components/CakeContainer";
 import HooksCakeContainer from "./components/HooksCakeContainer";
+import IceCreamContainer from "./components/IceCreamContainer";
 
 function App() {
   return (
     <Provider store={store}>
-      <div className="App">
-        <CakeContainer />
-        <HooksCakeContainer />
+      <div className="container text-center">
+        <div className="card card-body">
+          <CakeContainer />
+          <HooksCakeContainer />
+          <IceCreamContainer />
+        </div>
       </div>
     </Provider>
   );
